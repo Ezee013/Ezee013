@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Red Social] (in progress)
 
-- 🌱 I’m currently learning **Cibersecurity - Testing**
+- 🌱 I’m currently learning **Java Full Stack development**
 
 - 👨‍💻 All of my projects are available at [https://frontendportfolio-e59a6.web.app/](https://frontendportfolio-e59a6.web.app/)
 
