@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezee013&label=Profile%20views&color=0e75b6&style=flat" alt="ezee013" /> </p>
 
-- 🔭 I’m currently working on [Red Social] (in progress)
+- 🔭 I’m currently working and studying
 
-- 🌱 I’m currently learning **Java Full Stack development**
+- 🌱 I’m currently learning Cibersecurity
 
 - 👨‍💻 All of my projects are available at [https://frontendportfolio-e59a6.web.app/](https://frontendportfolio-e59a6.web.app/)
 
