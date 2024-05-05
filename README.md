@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezee013&label=Profile%20views&color=0e75b6&style=flat" alt="ezee013" /> </p>
 
-- 🔭 I’m currently working and studying
+- 🔭 I like Cibersecurity - SysAdmin
 
-- 🌱 I’m currently learning Cibersecurity
+- 🌱 I’m currently working and studying
 
 - 👨‍💻 All of my projects are available at [https://frontendportfolio-e59a6.web.app/](https://frontendportfolio-e59a6.web.app/)
 
