@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working and studying
 
-- 👨‍💻 All of my projects are available at [https://frontendportfolio-e59a6.web.app/](https://frontendportfolio-e59a6.web.app/)
+- 👨‍💻 You can see all my projects here
 
 - 📫 How to reach me **ezequiel2014.edlv@gmail.com**
 
